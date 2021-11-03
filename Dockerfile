@@ -1,3 +1,3 @@
-FROM openshift/spring-base-logback-encoder-tomcat9
+FROM openshift/spring-base-curs
 COPY README /tmp/
 USER 2000
